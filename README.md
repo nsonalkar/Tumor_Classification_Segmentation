@@ -10,3 +10,7 @@ Note: Make sure tensorflow version is 2.4.1
 * Download datasets from shared google drive
 * Make sure all files are in repository directory
 * To start web app enter `streamlit run app.py` in command line
+
+## File Description
+* Tumor_classification notebook is where I created the models for this project
+* app.py is a python script that builds the web app
