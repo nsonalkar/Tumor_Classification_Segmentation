@@ -17,8 +17,13 @@ Note: Make sure tensorflow version is 2.4.1
 
 ## Acknowledgements
 https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
+
 https://www.kaggle.com/ekhtiar/resunet-a-baseline-on-tensorflow
+
 https://setosa.io/ev/image-kernels/
+
 https://arxiv.org/pdf/1512.03385.pdf
+
 https://www.udemy.com/course/modern-artificial-intelligence-applications/
+
 https://towardsdatascience.com/dealing-with-class-imbalanced-image-datasets-1cbd17de76b5
