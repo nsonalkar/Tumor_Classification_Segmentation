@@ -4,4 +4,4 @@ Data and weights:
 https://drive.google.com/drive/folders/1yOxAnx9e5_VJPMZ5kLCh-vEej8pF9Z-h?usp=sharing
 
 ## Packages
-![alt text](Screen Shot 2021-01-29 at 4.25.12 PM.png)
+![alt text](https://github.com/nsonalkar/Tumor_Classification_Segmentation/blob/main/Screen%20Shot%202021-01-29%20at%204.25.12%20PM.png)
