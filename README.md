@@ -15,6 +15,9 @@ Note: Make sure tensorflow version is 2.4.1
 * Tumor_classification notebook is where I created the models for this project
 * app.py is a python script that builds the web app
 
+## Web app
+![alt text](https://github.com/nsonalkar/Tumor_Classification_Segmentation/blob/main/Screen%20Shot%202021-01-28%20at%2011.05.22%20PM.png)
+
 ## Acknowledgements
 https://www.kaggle.com/mateuszbuda/lgg-mri-segmentation
 
