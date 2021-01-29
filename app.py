@@ -9,11 +9,6 @@ import os
 
 
 
-
-
-
-
-
 def tversky(y_true, y_pred, smooth = 1e-6):
     y_true_pos = K.flatten(y_true)
     y_pred_pos = K.flatten(y_pred)
